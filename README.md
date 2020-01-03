@@ -1,3 +1,10 @@
+在线会议，教育系统
+支持音频，视频，幻灯片（带有白板控件），聊天和屏幕的实时分享
+在线辅导（一对一）
+课堂翻译（在会议钱记录内容）
+小组协作（多对多）
+在线课程（一对多）
+
 BigBlueButton
 =============
 BigBlueButton is an open source web conferencing system.  
